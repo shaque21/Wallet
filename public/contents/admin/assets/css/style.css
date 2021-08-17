@@ -1,0 +1,100 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  outline: 0px;
+}
+
+img{
+  border: 0px;
+}
+
+ul, ol{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+
+}
+
+.card_header_title{
+  font-size: 17px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: 3px;
+}
+
+.card_btn_part{
+  text-align: right;
+}
+
+.card_btn_part a{
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.custom_table{
+
+}
+
+.view_icon{
+  color: #333;
+}
+
+.edit_icon{
+  color: green;
+}
+
+.delete_icon{
+  color: red;
+}
+
+.custom_form_label{
+  font-weight: bold!important;
+  font-size: 14px!important;
+  text-align: right;
+  padding-right: 0px;
+}
+
+.custom_form_control{
+  font-size: 14px!important;
+}
+
+.req_star{
+  color: #951717;
+  font-weight: bold;
+}
+
+.custom_view_table{
+
+}
+
+.custom_view_table tr td{
+
+}
+
+.custom_view_table tr td:first-child{
+    text-align: right;
+    font-weight: bold;
+    width: 30%;
+}
+
+.custom_view_table tr td:last-child{
+    text-align: left;
+    font-weight: normal;
+    width: 68%;
+  }
+
+span.error{
+    color: red;
+    padding-left: 10px;
+}
+
+#view_img{
+		margin-top: 20px;
+		width: 120px!important;
+		height: 120px!important;
+}
